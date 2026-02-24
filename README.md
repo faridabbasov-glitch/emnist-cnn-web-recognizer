@@ -13,7 +13,7 @@ neural-ink/
 ├── frontend/
 │   └── index.html       # Drawing canvas UI (vanilla JS)
 ├── backend/
-│   └── main.py          # FastAPI server + /predict endpoint
+│   └── app.py          # FastAPI server + /predict endpoint
 ├── best_model.h5       
 ├── label_map.json       # Class index → character mapping
 └── requirements.txt
