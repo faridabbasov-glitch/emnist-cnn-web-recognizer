@@ -109,8 +109,5 @@ Before inference, user drawings are processed to match the EMNIST format:
 | Model    | TensorFlow / Keras    |
 | Dataset  | EMNIST ByClass        |
 
----
 
-## License
 
-MIT
