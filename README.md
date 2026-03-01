@@ -1,4 +1,4 @@
-# Neural Ink — EMNIST Alphanumeric Recognizer
+# Neural Ink - EMNIST Alphanumeric Recognizer
 
 A full-stack web application that recognizes handwritten **letters and digits** in real time using a CNN trained on the [EMNIST dataset](https://www.kaggle.com/datasets/crawford/emnist).
 
