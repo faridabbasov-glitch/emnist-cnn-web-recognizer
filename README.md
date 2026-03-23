@@ -26,8 +26,8 @@ neural-ink/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/faridabbasov-glitch/neural-ink.git
-cd neural-ink
+git clone https://github.com/faridabbasov-glitch/emnist-cnn-web-recognizer.git
+cd emnist-cnn-web-recognizer
 
 # 2. Create and activate a virtual environment
 python -m venv venv
